@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1608609648 source:d:\games\games\c++\dijkstra\main.cpp
+	<iostream>
+	<fstream>
+	<limits.h>
+	<stdio.h>
+

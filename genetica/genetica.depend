@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1618080824 source:d:\games\games\c++\genetica\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<random>
+	<stdio.h>
+	<limits.h>
+	<iostream>
+	<math.h>
+	<bitset>
+	<string.h>
+	<iomanip>
+

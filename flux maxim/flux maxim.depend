@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1609822040 source:d:\games\games\c++\flux maxim\main.cpp
+	<iostream>
+	<fstream>
+	<limits.h>
+	<string.h>
+	<queue>
+

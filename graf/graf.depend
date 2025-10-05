@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1604593064 source:d:\games\games\c++\graf\main.cpp
+	<iostream>
+	<fstream>
+	<queue>
+

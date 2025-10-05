@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1604520459 source:d:\games\games\c++\check dfs\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<algorithm>
+

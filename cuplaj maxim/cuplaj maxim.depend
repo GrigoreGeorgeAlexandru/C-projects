@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1609825322 source:d:\games\games\c++\cuplaj maxim\main.cpp
+	<iostream>
+	<fstream>
+	<limits.h>
+	<string.h>
+	<queue>
+

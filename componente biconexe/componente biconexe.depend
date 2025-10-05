@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1604607095 source:d:\games\games\c++\componente biconexe\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<queue>
+	<stack>
+
