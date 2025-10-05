@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1604636217 source:d:\games\games\c++\matrix exploration\main.cpp
+	<iostream>
+	<fstream>
+	<queue>
+

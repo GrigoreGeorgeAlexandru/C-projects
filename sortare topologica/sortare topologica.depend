@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1604548990 source:d:\games\games\c++\sortare topologica\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+

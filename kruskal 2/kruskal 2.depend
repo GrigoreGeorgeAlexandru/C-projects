@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1607987684 source:d:\games\games\c++\kruskal 2\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<algorithm>
+
