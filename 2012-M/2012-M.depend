@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1563152414 source:c:\users\alexandru\desktop\games\c++\2012-m\main.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+	<stdlib.h>
+	<iomanip>
+
