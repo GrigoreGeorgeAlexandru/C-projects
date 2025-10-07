@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1510220174 source:c:\users\guest\desktop\xic\41\main.cpp
+	<iostream>
+	<cmath>
+	<fstream>
+
