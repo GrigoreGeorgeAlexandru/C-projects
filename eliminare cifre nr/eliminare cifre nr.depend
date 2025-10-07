@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1507989553 source:c:\users\alexandru\desktop\games\c++\eliminare cifre nr\main.cpp
+	<iostream>
+	<fstream>
+
