@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1521145831 source:c:\users\alexandru\desktop\games\c++\al doilea cuvant\main.cpp
+	<iostream>
+	<string.h>
+

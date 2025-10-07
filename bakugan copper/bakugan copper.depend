@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1545499060 source:c:\users\alexandru\desktop\games\c++\bakugan copper\main.cpp
+	<iostream>
+	<fstream>
+

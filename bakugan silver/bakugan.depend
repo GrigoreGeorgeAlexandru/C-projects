@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1520876233 source:c:\users\alexandru\desktop\games\c++\bakugan\main.cpp
+	<iostream>
+	<fstream>
+
+1520876233 source:c:\users\alexandru\desktop\games\c++\bakugan silver\main.cpp
+	<iostream>
+	<fstream>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1538761626 source:c:\users\alexandru\desktop\games\c++\bdaman calculator\main.cpp
+	<iostream>
+	<cmath>
+
+1538758026 source:d:\games\c++\bdaman calculator\main.cpp
+	<iostream>
+	<cmath>
+
