@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1522093263 source:c:\users\alexandru\desktop\games\c++\permutare\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+

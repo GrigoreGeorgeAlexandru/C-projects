@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1517953720 source:c:\users\alexandru\desktop\games\c++\oi6\main.cpp
+	<iostream>
+	<fstream>
+
+1518000300 source:c:\users\guest\desktop\xic\oi6\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+

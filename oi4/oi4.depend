@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1517477829 source:c:\users\guest\desktop\xic\oi4\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+
+1517478100 source:c:\users\alexandru\desktop\games\c++\oi4\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+

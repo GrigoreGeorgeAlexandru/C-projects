@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1517482056 source:c:\users\guest\desktop\xic\oi5\main.cpp
+	<iostream>
+	<fstream>
+
+1517948464 source:c:\users\alexandru\desktop\games\c++\oi5\main.cpp
+	<iostream>
+	<fstream>
+
