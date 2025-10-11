@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1519641895 source:c:\users\guest\desktop\xic\summax\main.cpp
+	<iostream>
+	<fstream>
+
+1519934174 source:j:\c++\summax\main.cpp
+	<iostream>
+	<fstream>
+

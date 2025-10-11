@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1513847431 source:c:\users\guest\desktop\xic\strcat tema\main.cpp
+	<iostream>
+	<cstring>
+

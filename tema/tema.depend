@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1513593555 source:c:\users\guest\desktop\xic\tema\main.cpp
+	<iostream>
+	<string.h>
+
