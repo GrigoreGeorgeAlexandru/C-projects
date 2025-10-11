@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1519297594 source:c:\users\guest\desktop\xic\text\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+
+1519297596 source:j:\c++\text\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+

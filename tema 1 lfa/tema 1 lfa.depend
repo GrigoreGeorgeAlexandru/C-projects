@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1584575869 source:c:\users\acer\desktop\games\c++\tema 1 lfa\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+

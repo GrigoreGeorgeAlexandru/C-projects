@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1585220512 source:c:\users\acer\desktop\games\c++\tema oop\main.cpp
+	"header.h"
+	<iostream>
+	"header.h"
+
+1585166274 c:\users\acer\desktop\games\c++\tema oop\header.h
+	<iostream>
+
+1585162674 source:c:\users\acer\desktop\games\c++\tema oop\clase.cpp
+	"header.h"
+
