@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1717990727 source:d:\gaming\games\c++\test 2\main.cpp
+	"search.hpp"
+	"lists.hpp"
+	<queue>
+	<stack>
+	<unordered_set>
+	<iostream>
+
+1712050817 d:\gaming\games\c++\test 2\search.hpp
+	"graphs.hpp"
+
+1717745458 d:\gaming\games\c++\test 2\graphs.hpp
+	<unordered_set>
+	<unordered_map>
+	<list>
+	<vector>
+	<utility>
+	<limits>
+	"bag.hpp"
+
+1717745484 d:\gaming\games\c++\test 2\bag.hpp
+	<vector>
+	<list>
+
+1712050824 d:\gaming\games\c++\test 2\lists.hpp
+	<list>
+	<unordered_map>
+	<unordered_set>
+	<queue>
+	<iterator>
+
+1717745492 source:d:\gaming\games\c++\test 2\bag.cpp
+	"bag.hpp"
+	<queue>
+
+1710432298 source:d:\gaming\games\c++\test 2\graphs.cpp
+	"graphs.hpp"
+
+1712050780 source:d:\gaming\games\c++\test 2\lists.cpp
+	"lists.hpp"
+
+1717745472 source:d:\gaming\games\c++\test 2\parallel.cpp
+	"graphs.hpp"
+	"bag.hpp"
+	<omp.h>
+	<queue>
+	<iostream>
+
+1712050804 source:d:\gaming\games\c++\test 2\search.cpp
+	"search.hpp"
+	"lists.hpp"
+	<queue>
+	<stack>
+	<unordered_set>
+
+1712050788 source:d:\gaming\games\c++\test 2\weighted_search.cpp
+	"weighted_search.hpp"
+	"fibo_heap.hpp"
+
+1712050812 d:\gaming\games\c++\test 2\weighted_search.hpp
+	"graphs.hpp"
+	<unordered_map>
+	<unordered_set>
+	<functional>
+
+1712050795 d:\gaming\games\c++\test 2\fibo_heap.hpp
+	<unordered_map>
+	<vector>
+	<limits>
+

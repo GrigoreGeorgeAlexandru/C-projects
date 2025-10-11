@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1742629062 source:d:\gaming\games\c++\agot sacrifice\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
